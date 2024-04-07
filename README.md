@@ -18,19 +18,21 @@
 ###
 
 <div align="left">
+  
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" height = "40" alt ="PyCharm logo"/>
+  <img width="12" />
   <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height = "40" alt ="Docker logo"/>
   <img width = "12"/>
   <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg" height = "40" alt "AfterEffects logo" />
   <img width = "12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" height = "40" alt ="PyCharm logo"/>
-  <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg" height="40" alt="Unreal Engine ligi" />
   <img width ="12" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Illustrator.svg" height = "40" alt="Adobe Illustrator logo" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg" height = "40" alt="Photoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
