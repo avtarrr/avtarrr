@@ -18,6 +18,7 @@
 ###
 
 <div align="left">
+  <img width ="12" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Illustrator.svg" height = "40" alt "Adobe Illustrator logo"
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg" height = "40" alt="Photoshop logo"  />
