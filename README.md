@@ -16,7 +16,7 @@
 <h3 align="left">🛠 Технологии:</h3>
 ###
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/17dfd27032004edae7d3290e44158ffdc15e4be0/assets/github-snake.svg" alt="snake"/>
 </p>
 
 ###
