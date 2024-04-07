@@ -20,7 +20,7 @@
 <div align="left">
  
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg" hight = "40" alt="Photoshop logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg" height = "40" alt="Photoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
