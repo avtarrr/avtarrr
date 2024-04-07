@@ -37,9 +37,12 @@
   <img width="12" />
   
 </div>
+###
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
+
+###
 - ⚡ Fun fact: Хорошо написанный код - это код написанный два раза!
 -->
