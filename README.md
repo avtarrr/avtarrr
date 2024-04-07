@@ -18,7 +18,8 @@
 ###
 
 <div align="left">
-  
+  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg" height = "40" alt "AfterEffects logo" />
+  <img width = "12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" height = "40" alt ="PyCharm logo"/>
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg" height="40" alt="Unreal Engine ligi" />
