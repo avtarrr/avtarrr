@@ -18,6 +18,8 @@
 ###
 
 <div align="left">
+  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height = "40" alt ="Docker logo"/>
+  <img width = "12"/>
   <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg" height = "40" alt "AfterEffects logo" />
   <img width = "12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" height = "40" alt ="PyCharm logo"/>
